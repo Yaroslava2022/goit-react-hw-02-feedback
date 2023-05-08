@@ -1,0 +1,18 @@
+.ratingText {
+    font-size: 15px;
+    text-align: left;
+    font-weight: 600;
+    margin-top: 10px;
+    border: 2px solid yellowgreen;
+    width: 100%;
+    padding-left: 10px;
+  }
+  .ratingFigure {
+    font-size: 25px;
+  }
+  .rating {
+    text-align: left;
+    list-style: none;
+
+  }
+ 

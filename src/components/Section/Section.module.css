@@ -1,0 +1,13 @@
+.feedbackTitle {
+    font-size: 25px;
+    text-align: center;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .section {
+    margin: auto;
+  }
